@@ -24,8 +24,8 @@
     "@types/imap": "^0.8.42",
     "@types/mailparser": "^3.4.6",
     "imap": "^0.8.19",
-    "mailparser": "^3.7.3",
-    "next": "15.3.3",
+    "mailparser": "^3.9.3",
+    "next": "15.5.15",
     "openai": "^5.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
